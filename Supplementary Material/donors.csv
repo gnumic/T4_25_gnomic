@@ -1,0 +1,16 @@
+Table S2 Detailed donor information of single-cell sequenced samples;
+DonorID;Group;pH;PMD;Age;Region;Gender;Cause of Death;Brain Bank;
+2018-018;CTR;6,48;5,3;82;LPS;F;pneumonia;NBB;
+2018-112;CTR;6,59;4,21;95;LPS;F;unknown;NBB;
+2019-042;CTR;6,53;6:30;82;LPS;M;unknown;NBB;
+2018-021;CTR +;6,89;8,5;92;LPS;M;Terminal, physical deterioration, aspiration pneumonia and dehydration ;NBB;
+2018-064;CTR +;8,3;9,5;103;LPS;F;heart failure;NBB;
+2018-090;CTR +;6,65;5,1;97;LPS;M;unknown;NBB;
+2018-105;CTR +;6,39;6,45;86;LPS;M;unknown;NBB;
+2018-120;CTR +;6,81;6,55;72;LPS;M;unknown;NBB;
+2018-135;AD;6,46;4,05;81;LPS;F;unknown;NBB;
+2019-010;MCI;NA;NA;77;LPS;F;unknown;NBB;
+2019-030;AD;6,63;4,26;77;LPS;M;unknown;NBB;
+2019-032;AD;6,35;5,5;92;LPS;M;unknown;NBB;;
+iB6399-BA7 ;AD;NA;NA;88;LPS ;F;vascular cognitive impairment (VCI) vs. early dementia + essential tremor ;NBB-IBB;
+iB6408-BA7;CTR;NA;NA;76;LPS;M;euthanasia;NBB-IBB;

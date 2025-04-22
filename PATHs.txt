@@ -1,0 +1,79 @@
+# Main project folders
+r_project = "F:/R_project"
+
+# Module paths
+r_modules = "F:/R_project/modules"
+r_modules_seurat_object = "F:/R_project/modules/seurat_object"
+
+# Base export paths
+r_export = "F:/R_project/export"
+r_base_figures = "F:/R_project/export/figures"
+r_base_results = "F:/R_project/export/results"
+r_base_seurat_objects = "F:/R_project/export/seurat_objects"
+
+# Seurat objects subdirectories
+r_seurat_raw = "F:/R_project/export/seurat_objects/raw"
+r_seurat_normalized = "F:/R_project/export/seurat_objects/normalized"
+r_seurat_merged = "F:/R_project/export/seurat_objects/merged"
+
+# Data paths
+r_raw_data = "F:/R_project/data/GSE146639_RAW"
+r_my_data = "F:/R_project/data"
+
+# Supplementary Material
+r_supplementary = "F:/R_project/Supplementary Material"
+
+# Function to create unique output paths for each script run
+create_unique_output_paths <- function(script_name) {
+  current_time <- format(Sys.time(), "%Y%m%d_%H%M")
+  results_folder_name <- paste0(script_name, "_", current_time)
+  
+  # Create base results path
+  results_path <- file.path(r_export, results_folder_name)
+  
+  # Create subdirectories
+  figures_path <- file.path(results_path, "figures")
+  results_data_path <- file.path(results_path, "results")
+  seurat_objects_path <- file.path(results_path, "seurat_objects")
+  
+  # Create directories
+  dir.create(figures_path, recursive = TRUE, showWarnings = FALSE)
+  dir.create(results_data_path, recursive = TRUE, showWarnings = FALSE)
+  dir.create(seurat_objects_path, recursive = TRUE, showWarnings = FALSE)
+  
+  # Create log file path
+  log_file <- file.path(results_path, paste0(script_name, "_log_", current_time, ".txt"))
+  
+  # Return a list of paths
+  list(
+    "results_path" = results_path,
+    "figures_path" = figures_path,
+    "results_data_path" = results_data_path,
+    "seurat_objects_path" = seurat_objects_path,
+    "log_file" = log_file
+  )
+}
+
+# Helper function to check and install required packages
+install_required_packages <- function(packages) {
+  for (pkg in packages) {
+    if (!requireNamespace(pkg, quietly = TRUE)) {
+      message(paste("Installing package:", pkg))
+      
+      if (pkg %in% c("glmGamPoi", "SingleCellExperiment", "SummarizedExperiment")) {
+        if (!requireNamespace("BiocManager", quietly = TRUE)) {
+          install.packages("BiocManager", quiet = TRUE)
+        }
+        BiocManager::install(pkg, update = FALSE, quiet = TRUE)
+      } else if (pkg == "presto") {
+        if (!requireNamespace("devtools", quietly = TRUE)) {
+          install.packages("devtools", quiet = TRUE)
+        }
+        devtools::install_github("immunogenomics/presto", upgrade = "never", quiet = TRUE)
+      } else {
+        install.packages(pkg, dependencies = TRUE, quiet = TRUE)
+      }
+    }
+    library(pkg, character.only = TRUE)
+  }
+}
