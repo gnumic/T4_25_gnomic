@@ -1,0 +1,218 @@
+Script execution start: 2025-04-21 19:03:38.633777 
+Results will be saved to: F:/R_project/export/build_CTRplus_AD_objects_20250421_1903 
+Loading parsed file information...
+Loaded file components from: F:/R_project/export/filename_parse_20250421_1836/results/file_components.rds 
+Total files parsed: 187 
+CTR+ group donors: 2018-021, 2018-064, 2018-090, 2018-105, 2018-120 
+AD group donors: 2018-135, 2019-030, 2019-032, iB6399-BA7  
+
+Processing files for CTR+ group
+Processing file: GSM4403096_2018-021_CTR_5-1_S5_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_5-1.rds 
+Processing file: GSM4403097_2018-021_CTR_5-2_S6_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_5-2.rds 
+Processing file: GSM4403098_2018-021_CTR_5-3_S7_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_5-3.rds 
+Processing file: GSM4403099_2018-021_CTR_5-4_S8_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_5-4.rds 
+Processing file: GSM4403112_2018-021_CTR_12-1_S1_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_12-1.rds 
+Processing file: GSM4403113_2018-021_CTR_12-2_S2_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_12-2.rds 
+Processing file: GSM4403114_2018-021_CTR_12-3_S3_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_12-3.rds 
+Processing file: GSM4403115_2018-021_CTR_12-4_S4_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_12-4.rds 
+Processing file: GSM4403207_2018-021_CTR_5-4.2_S4_completeCounts.txt for donor: 2018-021 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-021_5-4.2.rds 
+Processing file: GSM4403100_2018-064_CTR_15-1_S9_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_15-1.rds 
+Processing file: GSM4403101_2018-064_CTR_15-2_S10_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_15-2.rds 
+Processing file: GSM4403102_2018-064_CTR_15-3_S11_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_15-3.rds 
+Processing file: GSM4403103_2018-064_CTR_15-4_S12_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_15-4.rds 
+Processing file: GSM4403120_2018-064_CTR_13-1_S1_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_13-1.rds 
+Processing file: GSM4403121_2018-064_CTR_13-2_S2_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_13-2.rds 
+Processing file: GSM4403122_2018-064_CTR_13-3_S3_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_13-3.rds 
+Processing file: GSM4403123_2018-064_CTR_13-4_S4_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_13-4.rds 
+Processing file: GSM4403129_2018-064_CTR_14-1_S2_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_14-1.rds 
+Processing file: GSM4403138_2018-064_CTR_14-2_S1_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_14-2.rds 
+Processing file: GSM4403148_2018-064_CTR_14-3_S1_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_14-3.rds 
+Processing file: GSM4403168_2018-064_CTR_14-4_S1_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_14-4.rds 
+Processing file: GSM4403206_2018-064_CTR_15-2.2_S9_completeCounts.txt for donor: 2018-064 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-064_15-2.2.rds 
+Processing file: GSM4403130_2018-090_CTR_26-1_S3_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_26-1.rds 
+Processing file: GSM4403139_2018-090_CTR_26-2_S2_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_26-2.rds 
+Processing file: GSM4403149_2018-090_CTR_26-3_S2_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_26-3.rds 
+Processing file: GSM4403169_2018-090_CTR_26-4_S2_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_26-4.rds 
+Processing file: GSM4403178_2018-090_CTR_29-2_S2_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_29-2.rds 
+Processing file: GSM4403190_2018-090_CTR_29-4_S6_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_29-4.rds 
+Processing file: GSM4403193_2018-090_CTR_32-2_S8_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_32-2.rds 
+Processing file: GSM4403201_2018-090_CTR_29-3_S6_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_29-3.rds 
+Processing file: GSM4403203_2018-090_CTR_32-1_S8_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_32-1.rds 
+Processing file: GSM4403205_2018-090_CTR_32-4_S10_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_32-4.rds 
+Processing file: GSM4403211_2018-090_CTR_29-1_S5_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_29-1.rds 
+Processing file: GSM4403229_2018-090_CTR_32-3_S10_completeCounts.txt for donor: 2018-090 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-090_32-3.rds 
+Processing file: GSM4403135_2018-105_CTR_40-3_S8_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_40-3.rds 
+Processing file: GSM4403144_2018-105_CTR_40-4_S7_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_40-4.rds 
+Processing file: GSM4403154_2018-105_CTR_41-1_S7_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_41-1.rds 
+Processing file: GSM4403158_2018-105_CTR_39-4_S1_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_39-4.rds 
+Processing file: GSM4403159_2018-105_CTR_40-1_S7_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_40-1.rds 
+Processing file: GSM4403160_2018-105_CTR_41-4_S2_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_41-4.rds 
+Processing file: GSM4403170_2018-105_CTR_41-2_S7_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_41-2.rds 
+Processing file: GSM4403180_2018-105_CTR_39-2_S5_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_39-2.rds 
+Processing file: GSM4403189_2018-105_CTR_39-3_S3_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_39-3.rds 
+Processing file: GSM4403192_2018-105_CTR_41-3_S9_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_41-3.rds 
+Processing file: GSM4403196_2018-105_CTR_39-1_S1_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_39-1.rds 
+Processing file: GSM4403234_2018-105_CTR_40-2_S6_completeCounts.txt for donor: 2018-105 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-105_40-2.rds 
+Processing file: GSM4403197_2018-120_CTR_45-2_S2_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_45-2.rds 
+Processing file: GSM4403216_2018-120_CTR_45-4_S4_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_45-4.rds 
+Processing file: GSM4403221_2018-120_CTR_46-4_S8_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_46-4.rds 
+Processing file: GSM4403226_2018-120_CTR_45-3_S3_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_45-3.rds 
+Processing file: GSM4403233_2018-120_CTR_47-2_S9_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_47-2.rds 
+Processing file: GSM4403243_2018-120_CTR_46-2_S5_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_46-2.rds 
+Processing file: GSM4403244_2018-120_CTR_45-1_S1_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_45-1.rds 
+Processing file: GSM4403254_2018-120_CTR_46-1_S5_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_46-1.rds 
+Processing file: GSM4403255_2018-120_CTR_47-4_S10_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_47-4.rds 
+Processing file: GSM4403260_2018-120_CTR_46-3_S6_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_46-3.rds 
+Processing file: GSM4403268_2018-120_CTR_47-3_S7_completeCounts.txt for donor: 2018-120 group: CTR+ 
+Object saved: F:/R_project/export/seurat_objects/raw/CTRplus_2018-120_47-3.rds 
+
+Processing files for AD group
+Processing file: GSM4403209_2018-135_AD_48-3_S3_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_48-3.rds 
+Processing file: GSM4403212_2018-135_AD_49-2_S6_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_49-2.rds 
+Processing file: GSM4403217_2018-135_AD_48-1_S1_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_48-1.rds 
+Processing file: GSM4403222_2018-135_AD_50-1_S9_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_50-1.rds 
+Processing file: GSM4403223_2018-135_AD_51-3_S3_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_51-3.rds 
+Processing file: GSM4403227_2018-135_AD_48-4_S4_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_48-4.rds 
+Processing file: GSM4403231_2018-135_AD_51-2_S2_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_51-2.rds 
+Processing file: GSM4403237_2018-135_AD_48-2_S2_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_48-2.rds 
+Processing file: GSM4403245_2018-135_AD_49-3_S6_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_49-3.rds 
+Processing file: GSM4403247_2018-135_AD_50-3_S9_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_50-3.rds 
+Processing file: GSM4403252_2018-135_AD_51-4_S4_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_51-4.rds 
+Processing file: GSM4403261_2018-135_AD_49-1_S4_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_49-1.rds 
+Processing file: GSM4403264_2018-135_AD_50-2_S8_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_50-2.rds 
+Processing file: GSM4403270_2018-135_AD_49-4_S5_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_49-4.rds 
+Processing file: GSM4403271_2018-135_AD_51-1_S4_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_51-1.rds 
+Processing file: GSM4403284_2018-135_AD_50-4_S10_completeCounts.txt for donor: 2018-135 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2018-135_50-4.rds 
+Processing file: GSM4403236_2019-030_AD_56-4_S7_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_56-4.rds 
+Processing file: GSM4403238_2019-030_AD_57-4_S10_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_57-4.rds 
+Processing file: GSM4403248_2019-030_AD_55-1_S1_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_55-1.rds 
+Processing file: GSM4403253_2019-030_AD_57-1_S7_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_57-1.rds 
+Processing file: GSM4403262_2019-030_AD_57-3_S9_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_57-3.rds 
+Processing file: GSM4403265_2019-030_AD_55-3_S2_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_55-3.rds 
+Processing file: GSM4403266_2019-030_AD_56-2_S9_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_56-2.rds 
+Processing file: GSM4403272_2019-030_AD_55-2_S3_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_55-2.rds 
+Processing file: GSM4403273_2019-030_AD_57-2_S2_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_57-2.rds 
+Processing file: GSM4403276_2019-030_AD_55-4_S2_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_55-4.rds 
+Processing file: GSM4403279_2019-030_AD_56-3_S5_completeCounts.txt for donor: 2019-030 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-030_56-3.rds 
+Processing file: GSM4403240_2019-032_AD_60-3_S9_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_60-3.rds 
+Processing file: GSM4403241_2019-032_AD_59-1_S4_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_59-1.rds 
+Processing file: GSM4403246_2019-032_AD_58-2_S2_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_58-2.rds 
+Processing file: GSM4403250_2019-032_AD_60-2_S8_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_60-2.rds 
+Processing file: GSM4403257_2019-032_AD_58-4_S3_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_58-4.rds 
+Processing file: GSM4403258_2019-032_AD_58-1_S1_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_58-1.rds 
+Processing file: GSM4403259_2019-032_AD_59-4_S7_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_59-4.rds 
+Processing file: GSM4403263_2019-032_AD_60-4_S10_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_60-4.rds 
+Processing file: GSM4403267_2019-032_AD_59-3_S8_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_59-3.rds 
+Processing file: GSM4403274_2019-032_AD_58-3_S1_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_58-3.rds 
+Processing file: GSM4403278_2019-032_AD_59-2_S4_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_59-2.rds 
+Processing file: GSM4403281_2019-032_AD_60-1_S7_completeCounts.txt for donor: 2019-032 group: AD 
+Object saved: F:/R_project/export/seurat_objects/raw/AD_2019-032_60-1.rds 
+
+Created 57 Seurat objects for CTR+ group
+Created 39 Seurat objects for AD group
+
+Saved combined CTR+ object with 3939 cells
+Path: F:/R_project/export/seurat_objects/merged/combined_CTRplus.rds 
+
+Saved combined AD object with 2633 cells
+Path: F:/R_project/export/seurat_objects/merged/combined_AD.rds 
+
+Saved combined object with 6572 cells
+Path: F:/R_project/export/seurat_objects/merged/combined_raw_CTRplus_AD.rds 
+
+Seurat object creation process completed: 2025-04-21 19:04:14.179192 
+All results saved to: F:/R_project/export/build_CTRplus_AD_objects_20250421_1903 

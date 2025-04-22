@@ -1,0 +1,27 @@
+Script execution start: 2025-04-21 18:36:00.126074 
+Results will be saved to: F:/R_project/export/filename_parse_20250421_1836 
+Found 187 text files in data directory
+
+Number of files by condition:
+
+    AD    CTR     NB RNAseq 
+    67     95      4     21 
+
+Number of files by donor:
+
+  2018-018   2018-021   2018-064   2018-077   2018-090   2018-105   2018-112 
+         8          9         13          1         12         12         14 
+  2018-120   2018-135   2019-010   2019-030   2019-032   2019-042         BE 
+        11         16         12         11         12          4         21 
+iB6399-BA7 iB6408-BA7   NextFlex 
+        15         12          4 
+
+File components saved to: F:/R_project/export/filename_parse_20250421_1836/results/file_components.csv 
+File components saved to: F:/R_project/export/filename_parse_20250421_1836/results/file_components.rds 
+File parts list saved to: F:/R_project/export/filename_parse_20250421_1836/results/file_parts_list.rds 
+
+Found 8 files for donor 2018-018
+Found 95 Control (CTR) samples
+Found 67 Alzheimer's (AD) samples
+
+Script execution completed: 2025-04-21 18:36:00.273454 
